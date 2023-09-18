@@ -1,0 +1,131 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+.container{
+    margin: 0px 166px;
+
+}
+.header{
+    background-image: url(../img/hero\ image.svg);
+    background-repeat: none;
+    background-size: cover;
+    height: 166vh;
+}
+
+.phone__text{
+    color: #fff;
+}
+
+.header__line{
+    padding-top: 50px;
+    display: flex;
+    align-items: end;
+    justify-content: space-around;
+}
+
+
+
+
+.nav__text{
+ color: #fff;
+ text-decoration: none;
+ margin-right: 25px;
+}
+
+.cart{
+    position: relative;
+    border-right: 1px solid #ffff;
+    padding-right: 10px;
+    height: 50px;
+}
+
+.img__cart{
+    position: absolute;
+    top: 18px;
+    right: 7px;
+}
+
+.num{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700px;
+}
+.phone__text{
+    font-size: 14px;
+    font-weight: 400px;
+    color: #fff;
+}
+
+.phone__holder{
+    display: flex;
+    align-items: center;
+}
+
+.button{
+    background-color: #FF7400;
+    color: #fff;
+    text-decoration: none;
+    padding: 14px 14px 17px 17px;
+}
+.main__words{
+    color: #D67E35;
+    font-family: Tinos;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top:261px ;
+}
+.zxc{
+    color: #FFF;
+font-family: Open Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-left: 200px;
+display: flex;
+}
+.menu{
+    color: #FFF;
+    padding-left: 275px;
+    padding-top: 30px;
+    color: #fff;
+    text-decoration: none;
+    width: 150px;
+}
+
+.boxs{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: -100px;
+}
+
+.box1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: aqua;
+    margin-right: 300px;
+}
+
+.img1{
+    margin-top: 60px;
+}
+
+.button1{
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 700;
+    background: #FF7400;
+    padding: 14px 27px;
+    border-radius: 4px;
+}
